@@ -1,5 +1,17 @@
 ## Changelog
 
+## [0.2.2](https://github.com/logdna/nprogress/compare/v0.2.1...v0.2.2) (2021-11-30)
+
+
+### Bug Fixes
+
+* **css**: className of null [2afeef9](https://github.com/logdna/nprogress/commit/2afeef92888d1b1a5bc1cf53dca55ccb0f9269db) - Terry Moore
+
+
+### Miscellaneous
+
+* Merge pull request #2 from logdna/tm/LOG-9656 [b3a0b5d](https://github.com/logdna/nprogress/commit/b3a0b5d9514cd47ed5618ca5eb9be688afbbffe1) - GitHub, closes: [#2](https://github.com/logdna/nprogress/issues/2)
+
 ## [0.2.1](https://github.com/logdna/nprogress/compare/v0.2.0...v0.2.1) (2021-06-02)
 
 

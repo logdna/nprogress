@@ -2,7 +2,7 @@
   "name": "@logdna/nprogress",
   "author": "Rico Sta. Cruz <hi@ricostacruz.com>",
   "description": "Simple slim progress bars",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": false,
   "publishConfig": {
     "access": "public"
