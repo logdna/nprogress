@@ -123,6 +123,7 @@
     var work = function() {
       setTimeout(function() {
         if (!NProgress.status) return;
+        if (!document.querySelector(NProgress.parent)) return
         NProgress.trickle();
         work();
       }, Settings.trickleSpeed);
