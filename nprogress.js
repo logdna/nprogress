@@ -456,6 +456,7 @@
         newList = oldList + name;
 
     if (hasClass(oldList, name)) return;
+    if (element == null) return
 
     // Trim the opening space.
     element.className = newList.substring(1);
