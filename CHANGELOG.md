@@ -1,5 +1,17 @@
 ## Changelog
 
+## [0.2.3](https://github.com/logdna/nprogress/compare/v0.2.2...v0.2.3) (2022-04-07)
+
+
+### Bug Fixes
+
+* **className**: trying to set className to null element [1a0f0c3](https://github.com/logdna/nprogress/commit/1a0f0c374ae42f7e0e324ccdc24dc65f1b7a7753) - Terry Moore
+
+
+### Miscellaneous
+
+* Merge pull request #3 from logdna/tm/LOG-12524 [d5ffdd6](https://github.com/logdna/nprogress/commit/d5ffdd6a686e4b6d305a4be2c3271dd4891569b9) - GitHub, closes: [#3](https://github.com/logdna/nprogress/issues/3)
+
 ## [0.2.2](https://github.com/logdna/nprogress/compare/v0.2.1...v0.2.2) (2021-11-30)
 
 
