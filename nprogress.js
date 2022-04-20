@@ -240,6 +240,10 @@
           : document.querySelector(Settings.parent),
         spinner
 
+    if(!parent) {
+      parent = document.body
+    }
+    
     css(bar, {
       transition: 'all 0 linear',
       transform: 'translate3d(' + perc + '%,0,0)'
@@ -253,7 +257,7 @@
     if (parent != document.body) {
       addClass(parent, 'nprogress-custom-parent');
     }
-
+    
     parent.appendChild(progress);
     return progress;
   };
