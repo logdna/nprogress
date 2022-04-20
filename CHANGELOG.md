@@ -1,5 +1,17 @@
 ## Changelog
 
+## [0.2.4](https://github.com/logdna/nprogress/compare/v0.2.3...v0.2.4) (2022-04-20)
+
+
+### Bug Fixes
+
+* **errors**: reading appendChild [8f789ae](https://github.com/logdna/nprogress/commit/8f789aee681f9920ccf152f0c4a00593c34dddf1) - Terry Moore
+
+
+### Miscellaneous
+
+* Merge pull request #4 from logdna/tm/LOG-12524-part2 [cd0d2f1](https://github.com/logdna/nprogress/commit/cd0d2f134b020f0a1496610ef89c9854b136195c) - GitHub, closes: [#4](https://github.com/logdna/nprogress/issues/4)
+
 ## [0.2.3](https://github.com/logdna/nprogress/compare/v0.2.2...v0.2.3) (2022-04-07)
 
 
